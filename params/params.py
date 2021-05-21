@@ -17,7 +17,7 @@ path_to_Wi = ""+"Wi_weights"
 batch_size = 2
 
 #dataset save path
-path_to_preprocess = '/mnt/ACA21355A21322FE/VoxCeleb/saves2'
+path_to_preprocess = '/home/lizh/datasets/preprocess'
 
 #default for Voxceleb
 frame_shape = 224
